@@ -1,4 +1,4 @@
 - 👋 Olá, Eu sou @KaioDev03
-- 👀 Desenvolvedor Junior
+- 👀 Estudante de Desenvolvimento de Sistemas
 - 🌱 Estudando Javascript e seus frameworks
 
